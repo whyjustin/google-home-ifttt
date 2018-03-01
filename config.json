@@ -1,0 +1,40 @@
+{
+  "features": {
+    "dropbox": {
+      "accessToken": "Fay0Yb5UEOgAAAAAAAAGvEmZ8-Bql_NDWHPEniG_ObgxxwK6TgU5CIdnCKYyjbkb",
+      "path": "/googleHome/"
+    },
+    "sonos": {
+      "defaultRoomName": "Television",
+      "shortcuts": [
+        {
+          "key": "KPCC",
+          "uri": "http://live.scpr.org/kpcclive"
+        }
+      ]
+    },
+    "playmusic": {
+      "username": "justin.r.young@gmail.com",
+      "password": "jcqiltwnxweexxeh"
+    },
+    "pandora": {
+      "username": "whyjustin@yahoo.com",
+      "password": "alligator"
+    },
+    "plex": {
+      "hostname": "192.168.1.26",
+      "port": 32400
+    },
+    "chromecast": {
+      "hostname": "192.168.1.120"
+    },
+    "tts": {
+      "port": 3000
+    },
+    "sonarr": {
+      "hostname": "192.168.1.26",
+      "port": 8989,
+      "apiKey": "f3da81522f6f4d4cb6259b4ea9965859"
+    }
+  }
+}

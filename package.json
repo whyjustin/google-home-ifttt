@@ -1,0 +1,26 @@
+{
+  "name": "google-home-iftt-middleware",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Justin Young <whyjustin@yahoo.com>",
+  "license": "MIT",
+  "dependencies": {
+    "anesidora": "^1.2.1",
+    "castv2-client": "^1.2.0",
+    "dateformat": "^2.0.0",
+    "dropbox": "^2.5.1",
+    "express": "^4.14.1",
+    "form-urlencoded": "^1.5.0",
+    "mdns": "^2.3.3",
+    "playmusic": "https://github.com/jamon/playmusic.git#669527238008a14d18d4060a8352c8220344dc5f",
+    "plex-api": "^5.0.2",
+    "request": "^2.79.0",
+    "sonos": "^0.14.1",
+    "sonos-discovery": "https://github.com/jishi/node-sonos-discovery/archive/v1.2.7.tar.gz",
+    "uuid4": "^1.0.0"
+  }
+}
